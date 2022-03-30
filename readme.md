@@ -6,6 +6,7 @@ Step 2: Open command prompt and change your current path to folder where you can
 
 Step 3: Create environment by command given below- 
         conda create -name <environment name>
+        
 Step 4: Activate environment by command as follows- 
         conda activate <environment name>
 Step 5: Use command below to install required dependencies- python -m pip install -r requirements.txt
